@@ -1,0 +1,5 @@
+c:\users\olehk\documents\visual studio 2012\Projects\GeometryDLL\GeometryDLL\bin\Debug\GeometryDLL.dll
+c:\users\olehk\documents\visual studio 2012\Projects\GeometryDLL\GeometryDLL\bin\Debug\GeometryDLL.pdb
+c:\users\olehk\documents\visual studio 2012\Projects\GeometryDLL\GeometryDLL\obj\Debug\GeometryDLL.csprojResolveAssemblyReference.cache
+c:\users\olehk\documents\visual studio 2012\Projects\GeometryDLL\GeometryDLL\obj\Debug\GeometryDLL.dll
+c:\users\olehk\documents\visual studio 2012\Projects\GeometryDLL\GeometryDLL\obj\Debug\GeometryDLL.pdb

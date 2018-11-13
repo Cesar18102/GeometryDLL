@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: GeometryDLL, Configuration: Debug Any CPU ------
+1>C:\Users\olehk\documents\visual studio 2012\Projects\GeometryDLL\GeometryDLL\LineR2.cs(19,27,19,33): warning CS0109: The member 'CourseWork.LineR2.Length' does not hide an inherited member. The new keyword is not required.
+1>C:\Users\olehk\documents\visual studio 2012\Projects\GeometryDLL\GeometryDLL\LineR2.cs(153,21,153,25): warning CS0108: 'CourseWork.LineR2.Draw(float)' hides inherited member 'CourseWork.Figure.Draw(float)'. Use the new keyword if hiding was intended.
+1>C:\Users\olehk\documents\visual studio 2012\Projects\GeometryDLL\GeometryDLL\GlWindow.cs(25,28,25,41): warning CS0169: The field 'CourseWork.GlWindow.renderFuncObj' is never used
+1>C:\Users\olehk\documents\visual studio 2012\Projects\GeometryDLL\GeometryDLL\Polygon.cs(11,27,11,35): warning CS0169: The field 'CourseWork.Polygon.vertexes' is never used
+1>  GeometryDLL -> C:\Users\olehk\documents\visual studio 2012\Projects\GeometryDLL\GeometryDLL\bin\Debug\GeometryDLL.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

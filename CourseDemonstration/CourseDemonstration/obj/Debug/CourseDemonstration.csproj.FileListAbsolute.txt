@@ -1,0 +1,9 @@
+c:\users\olehk\documents\visual studio 2012\Projects\CourseDemonstration\CourseDemonstration\bin\Debug\CourseDemonstration.exe.config
+C:\Users\olehk\documents\visual studio 2012\Projects\CourseDemonstration\CourseDemonstration\bin\Debug\CourseDemonstration.exe
+C:\Users\olehk\documents\visual studio 2012\Projects\CourseDemonstration\CourseDemonstration\bin\Debug\CourseDemonstration.pdb
+C:\Users\olehk\documents\visual studio 2012\Projects\CourseDemonstration\CourseDemonstration\obj\Debug\CourseDemonstration.csprojResolveAssemblyReference.cache
+C:\Users\olehk\documents\visual studio 2012\Projects\CourseDemonstration\CourseDemonstration\obj\Debug\CourseDemonstration.Form1.resources
+C:\Users\olehk\documents\visual studio 2012\Projects\CourseDemonstration\CourseDemonstration\obj\Debug\CourseDemonstration.Properties.Resources.resources
+C:\Users\olehk\documents\visual studio 2012\Projects\CourseDemonstration\CourseDemonstration\obj\Debug\CourseDemonstration.csproj.GenerateResource.Cache
+C:\Users\olehk\documents\visual studio 2012\Projects\CourseDemonstration\CourseDemonstration\obj\Debug\CourseDemonstration.exe
+C:\Users\olehk\documents\visual studio 2012\Projects\CourseDemonstration\CourseDemonstration\obj\Debug\CourseDemonstration.pdb
